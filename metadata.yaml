@@ -1,0 +1,29 @@
+_repo: Sing-a-Song-of-Sixpence_40154
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 40154-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Holdsworth, Mary
+    gutenberg_agent_id: '40443'
+    url: http://www.gutenberg.org/2009/agents/40443
+description: ''
+gutenberg_issued: '2012-07-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40154'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Dreams -- Juvenile fiction'
+- !lcsh 'Missing children -- Juvenile fiction'
+- !lcsh 'Robins -- Juvenile fiction'
+- !lcsh 'Children''s stories'
+tableOfContents: Sing a song of sixpence -- The story of a robin.
+title: Sing a Song of Sixpence
+url: http://www.gutenberg.org/ebooks/40154
